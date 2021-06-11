@@ -1,5 +1,5 @@
 {
-  "name": "react-grid",
+  "name": "@ofqwx/react-grid",
   "version": "0.0.1",
   "description": "Simple flex box grid",
   "main": "./package/cjs/bundle.js",
@@ -7,7 +7,7 @@
   "browser": "./package/amd/bundle.js",
   "repository": "https://github.com/ofqwx/react-grid",
   "author": "Antonio Aznarez<antonioaznarez@gmail.com>",
-  "license": "MIT",
+  "license": "UNLICENCED",
   "scripts": {
     "build": "yarn rollup -c rollup.config.js"
   },
