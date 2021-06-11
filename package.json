@@ -1,6 +1,6 @@
 {
   "name": "@ofqwx/react-grid",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Simple flex box grid",
   "main": "./package/cjs/bundle.js",
   "module": "./package/esm/bundle.js",

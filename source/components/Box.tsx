@@ -14,7 +14,7 @@ const Wrapper = styled.div`
       `;
     }
 
-    return css`8px;`;
+    return css`padding: 8px;`;
   }}
 
   ${(props) => {
